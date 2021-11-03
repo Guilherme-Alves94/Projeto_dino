@@ -1,1 +1,1 @@
-#Recriação do jogo Dinossauro sem internet.
+# Recriação do jogo Dinossauro sem internet.
