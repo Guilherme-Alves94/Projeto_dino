@@ -1,2 +1,2 @@
 # Projeto_dino
-recriação jogo dinossauro sem internet
+recriação do jogo dinossauro sem internet
